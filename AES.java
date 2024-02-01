@@ -6,7 +6,7 @@ import javax.crypto.spec.SecretKeySpec;
 /**
 * Program to Encrypt/Decrypt String Using AES 128 bit Encryption Algorithm
 */
-public class EncryptDecryptString
+public class AES
 {
 private static final String encryptionKey = "ABCDEFGHIJKLMNOP";
 private static final String characterEncoding = "UTF-8";
